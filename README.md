@@ -17,7 +17,7 @@
   <img align="center" alt="React.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Laravel" height="50" width="50" src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg](https://cdn.worldvectorlogo.com/logos/laravel-2.svg)">
 </div>
 
 ## Github Stats 😁👆
