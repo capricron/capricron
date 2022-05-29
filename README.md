@@ -20,7 +20,7 @@
     <img align="center" alt="React.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-    <img align="center" alt="React.js" height="40" width="50" src="	https://seeklogo.com/images/L/lumen-logo-3B3EF36866-seeklogo.com.png">
+    <img align="center" alt="React.js" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg">
 
 </div>
 
