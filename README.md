@@ -26,9 +26,9 @@
 
 ## Github Stats 😁👆
 
-<a href="https://github.com/rayhunts">
+<a href="https://github.com/capricron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricron&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/rayhunts">
+<a href="https://github.com/capricron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=capricron&show_icons=true&theme=onedark" />
 </a>
