@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/0b/7c/3b/0b7c3bfdfb2174dd00c1cd374f8ae1ef.gif)
+![Alt Text](https://i.pinimg.com/originals/e0/81/e9/e081e914c1c424cb15f63056dde725b3.gif)
 
 ## Hai 👋, Selamat datang di Profileku
 
