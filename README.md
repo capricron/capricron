@@ -1,11 +1,10 @@
 ![Alt Text](https://i.pinimg.com/originals/e0/81/e9/e081e914c1c424cb15f63056dde725b3.gif)
 
-## Hai 👋, Selamat datang di Profileku
+## Hai 👋, Selamat datang di Github ku
 
-- 💬 Ask me about PHP
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Laravel
-- ⚡ Fun fact: Anime Lovers & Laravel Enthusiast
+- 🌱 I’m currently about Fullstack
+- ⚡ Fun fact: Memers & Wibu
 
 ## Main Skills
 
