@@ -6,7 +6,7 @@
 - 🌱 I’m currently about Fullstack
 - ⚡ Fun fact: Memers & Wibu
 
-## Main Skills
+## My Skill
 
 <div style="display: inline_block">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
