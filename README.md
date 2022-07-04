@@ -1,6 +1,6 @@
 ## Hai 👋, Selamat datang di Github ku
 
-![Alt Text](https://i.pinimg.com/originals/e0/81/e9/e081e914c1c424cb15f63056dde725b3.gif)
+![Alt Text](https://c.tenor.com/BTfDtq1gNvIAAAAd/eris-greyrat-mushoku-tensei.gif)
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently about Fullstack
