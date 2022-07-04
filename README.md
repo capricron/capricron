@@ -3,7 +3,7 @@
 ![Alt Text](https://c.tenor.com/BTfDtq1gNvIAAAAd/eris-greyrat-mushoku-tensei.gif)
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently about Fullstack
+- 🌱 Fullstack Developer (Frontend, Backend, Mobile) but dominate in Backend
 - ⚡ Fun fact: Memers & Wibu
 - 📖 Currently studying 5 languages ( JavaScript, PHP , Python , Dart , Golang )
 
