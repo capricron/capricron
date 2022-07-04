@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently about Fullstack
 - ⚡ Fun fact: Memers & Wibu
-- 📖 Currently studying 6 languages ( JavaScript, PHP , Python , Dart , Golang )
+- 📖 Currently studying 5 languages ( JavaScript, PHP , Python , Dart , Golang )
 
 ## My Skill
 
