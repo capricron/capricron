@@ -1,4 +1,4 @@
-## Hai 👋, Selamat datang di Github ku
+## Hai 👋, Welcome in my Github Profile
 
 ![Alt Text](https://c.tenor.com/BTfDtq1gNvIAAAAd/eris-greyrat-mushoku-tensei.gif)
 
