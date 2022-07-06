@@ -31,3 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricron&theme=radical&layout=compact" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
