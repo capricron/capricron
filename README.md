@@ -28,7 +28,7 @@
 ## Github Stats 😁👆
 
 <a href="https://github.com/capricron">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricron&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capricron&theme=radical&layout=compactlangs_count=10" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capricron&show_icons=true&theme=radical)
