@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 Software Developer (Frontend, Backend, Mobile) but dominate in Backend
 - ⚡ Fun fact: Memers & Wibu
-- 📖 Currently studying 5 languages ( JavaScript, PHP , Python , Kotlin , Golang )
+- 📖 Currently studying 5 languages ( JavaScript, PHP , Python , Java , Golang )
 <br>
 <a href="https://www.linkedin.com/in/wahyudi-khoeris-salimi-15942b198"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:wahyudikhoeris@student.telkomuniversity.ac.id?subject=Hello, Wahyu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
