@@ -3,7 +3,7 @@
 ![Alt Text](https://c.tenor.com/BTfDtq1gNvIAAAAd/eris-greyrat-mushoku-tensei.gif)
 
 - 😄 Pronouns: He/Him
-- 🌱 Software Developer (Frontend, Backend, Mobile) but dominate in Backend
+- 🌱 Software Developer (Backend, Frontend, Mobile) & System Administrator (Linux Debian)
 - ⚡ Fun fact: Memers & Wibu
 - 📖 Currently studying 5 languages ( JavaScript, PHP , Python , Java , Golang )
 <br>
