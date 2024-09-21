@@ -20,8 +20,11 @@
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Bun" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
     <img align="center" alt="Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="hono" height="40" width="50" src="https://hono.dev/images/logo-small.png">
+    <img align="center" alt="astro" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
     <img align="center" alt="nestjs" height="40" width="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
     <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img align="center" alt="React.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
