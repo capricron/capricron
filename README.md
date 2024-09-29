@@ -31,16 +31,13 @@
     <img align="center" alt="Lumen" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg">
     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Debian" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-<img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-<img align="center" src="https://streak-stats.demolab.com/?user=capricron&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-
+    <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
 
 
 ## My Stats
-
+<img align="center" src="https://streak-stats.demolab.com/?user=capricron&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capricron&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capricron&show_icons=true&theme=radical)
 
 
