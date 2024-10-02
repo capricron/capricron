@@ -1,5 +1,9 @@
 ## Hai 👋, Welcome in my Github Profile
 
+I am the CO-Founder/CTO of Smartpath
+<img align="center" alt="HTML" height="40" width="50" src="https://smartpath.id/assets/logo/logo_smartpath.png">
+
+
 ![Alt Text](https://c.tenor.com/BTfDtq1gNvIAAAAd/eris-greyrat-mushoku-tensei.gif)
 
 - 😄 Pronouns: He/Him
