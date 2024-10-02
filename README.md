@@ -41,8 +41,9 @@ I am the CO-Founder/CTO of Smartpath
 
 ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capricron&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capricron&show_icons=true&theme=radical)
+![Wahyu GitHub stats](https://github-readme-stats.vercel.app/api?username=capricron&show_icons=true&theme=radical)
 <img align="center" src="https://streak-stats.demolab.com/?user=capricron&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+![Wahyu Trophy](https://github-profile-trophy.vercel.app/?username=wisnuwirayuda15&theme=radical)
 
 
 
