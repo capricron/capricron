@@ -32,6 +32,7 @@ I am the CO-Founder/CTO of Smartpath
     <img align="center" alt="nestjs" height="40" width="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
     <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img align="center" alt="React.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="React.js" height="40" width="50" src="https://go.dev/images/go-logo-white.svg">
     <img align="center" alt="Lumen" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg">
     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Debian" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
